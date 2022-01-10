@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/gnuradio/SigMF/blob/sigmf-v1.x/logo/sigmf_logo.png" width="100%" />
+<img src="https://github.com/gnuradio/SigMF/blob/sigmf-v1.x/logo/sigmf_logo.png" width="10%" />
 </p>
 
 # Signal Metadata Format (SigMF)
